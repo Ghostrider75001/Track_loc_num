@@ -1,1 +1,5 @@
-# Track_loc_num
+pip install phonenumbers
+
+pip install opencage
+
+pip install folium
